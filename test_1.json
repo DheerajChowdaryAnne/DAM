@@ -1,0 +1,38 @@
+[
+  {
+    "Album Title": "Mind of Mine",
+    "Artist Name": "Zayn Malik",
+    "Songs": [
+      "PILLOWTALK",
+      "iT's YoU",
+      "BeFoUr",
+      "sHe",
+      "wRoNg (feat. Kehlani)"
+    ],
+    "Year": 2016
+  },
+  {
+    "Album Title": "The Marshall Mathers LP",
+    "Artist Name": "Eminem",
+    "Songs": [
+      "The Real Slim Shady",
+      "The Way I Am",
+      "Stan (feat. Dido)",
+      "I'm Back",
+      "Marshall Mathers"
+    ],
+    "Year": 2000
+  },
+  {
+    "Album Title": "Folklore",
+    "Artist Name": "Taylor Swift",
+    "Songs": [
+      "the 1",
+      "cardigan",
+      "the last great american dynasty",
+      "exile (feat. Bon Iver)",
+      "my tears ricochet"
+    ],
+    "Year": 2020
+  }
+]
